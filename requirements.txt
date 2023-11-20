@@ -1,0 +1,13 @@
+# Core scientific stack
+numpy<2.0
+pandas>=2.0
+
+# Machine learning
+scikit-learn>=1.2,<1.5
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter environment
+jupyter
