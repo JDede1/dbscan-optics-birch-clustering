@@ -86,6 +86,4 @@ Open `DBSCAN_OPTICS_BIRCH_Clustering.ipynb` and run all cells.
 
 Visualization of cluster distributions confirmed the cluster assignments, and interpretations revealed unique subgroup patterns.
 
-```
-
 ---
